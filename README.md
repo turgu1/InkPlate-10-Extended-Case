@@ -29,5 +29,4 @@ Buttons PCB | InkPlate Board |    Button
 
 The original licensing from e-Radionica remains GPL-3 for their design as well as all supplied files in this project.
 
-<img src="Pictures/Inkplate_6_With_Mechanical_Buttons.png" alt="picture" width="600"/>
-<img src="Pictures/Bottom_Case_With_Buttons_Board.png" alt="picture" width="250"/><img src="Pictures/Buttons 3D View.png" alt="picture" width="250"/>
+<img src="Pictures/Buttons 3D View.png" alt="picture" width="250"/>
